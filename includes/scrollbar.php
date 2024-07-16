@@ -15,12 +15,12 @@
 
                         <li class="nav-item">
                             <a class="nav-link menu-link" href="#sidebarInvoiceManagement" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="sidebarInvoiceManagement">
-                                <i class="las la-file-invoice"></i> <span data-key="t-invoices">Data Management</span>
+                                <i class="las la-file-invoice"></i> <span data-key="t-invoices">Master Data Management</span>
                             </a>
                             <div class="collapse menu-dropdown" id="sidebarInvoiceManagement">
                                 <ul class="nav nav-sm flex-column">
                                     <li class="nav-item">
-                                        <a href="invoice.html" class="nav-link" data-key="t-invoice"> Invoice </a>
+                                        <a href="view_master_data.php" class="nav-link" data-key="t-invoice">TB Trend </a>
                                     </li>
 
                                     <li class="nav-item">
