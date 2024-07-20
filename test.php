@@ -13,6 +13,7 @@ if (!isset($_SESSION['user_id'])) {
 
 
 // Include any other necessary files
+//new code
 require '../includes/config.php';
 
 ?>
